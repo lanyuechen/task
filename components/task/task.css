@@ -1,0 +1,20 @@
+.block {
+    overflow: hidden;
+    background: #fff;
+    box-shadow: 1px 3px 9px rgba(0, 0, 0, 0.5);
+    margin-bottom: 15px;
+}
+.header {
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+}
+.header > h2 {
+    margin: 5px 0;
+}
+.header > span {
+    color: #aaa;
+    font-size: 14px;
+}
+.body {
+    padding: 15px;
+}
